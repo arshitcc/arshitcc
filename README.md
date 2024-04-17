@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focusing **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arshitcc/](https://github.com/arshitcc/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/arshitcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arshitcc" height="30" width="40" /></a>
 
 - 💬 Ask me about **Data Structure & Algorithms (DSA)**
 
