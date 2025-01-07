@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshit Chaurasia</h1>
 <h3 align="center">Learning Skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshitcc&label=Profile%20views&color=0e75b6&style=flat" alt="arshitcc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshitcc&label=Profile%20views&color=7209b7&style=for-the-badge" alt="Profile Views" /> </p>
 
 - 🔭 I’m currently focusing **JavaScript**
 
@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I Write Code**
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3 align="left">Connect with Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h3>
 <p align="left">
 <a href="https://twitter.com/arshitcc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshitcc" height="30" width="40" /></a>
@@ -22,6 +24,8 @@
 <a href="https://www.leetcode.com/arshitcc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshitcc" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arshitcc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arshitcc" height="30" width="40" /></a>
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,6 +43,8 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a>  
     
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 ### GitHub Stats
