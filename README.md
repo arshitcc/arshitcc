@@ -15,9 +15,7 @@
    </p>
     <b> 📫 Reach me at: </b><br> 
       <a href="https://linkedin.com/in/arshitcc" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
-      <a href="https://dev.to/arshitcc" target="_blank"> <img src="https://skillicons.dev/icons?i=devto" />  </a>
-       <a href="https://x.com/arshitcc" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" />  </a>
-       <a href="https://discordapp.com/users/1087260423151157329" target="_blank"><img src="https://skillicons.dev/icons?i=discord" />  </a>
+      <a href="https://discordapp.com/users/1087260423151157329" target="_blank"><img src="https://skillicons.dev/icons?i=discord" />  </a>
       <a href="https://www.instagram.com/arshitcc/#" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" />  </a>
       <a href="mailto:arshitcc@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" />  </a>
   </div>
@@ -30,7 +28,7 @@
 <p align="center">
   <a href="https://twitter.com/arshitcc"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/arshitcc"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.leetcode.com/arshitcc"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.leetcode.com/arshitccc"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://www.codechef.com/users/arshitcc"><img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://auth.geeksforgeeks.org/user/arshitcc"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 </p>
